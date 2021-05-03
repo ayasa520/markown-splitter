@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e2447ab-847f-4bf0-aa55-adf01e4faf2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s0zqYTT2JqYXiwzzd3h7H5c6xl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="splitmd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e2447ab-847f-4bf0-aa55-adf01e4faf2d" name="Default Changelist" comment="" />
+      <created>1620024485813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620024485813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1898" height="295" key="GridCell.Tab.0.bottom" timestamp="1620067287060">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="295" key="GridCell.Tab.0.bottom/0.0.1440.810/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620067287060" />
+    <state width="1898" height="295" key="GridCell.Tab.0.center" timestamp="1620067287058">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="295" key="GridCell.Tab.0.center/0.0.1440.810/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620067287058" />
+    <state width="1898" height="295" key="GridCell.Tab.0.left" timestamp="1620067287058">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="295" key="GridCell.Tab.0.left/0.0.1440.810/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620067287058" />
+    <state width="1898" height="295" key="GridCell.Tab.0.right" timestamp="1620067287059">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1898" height="295" key="GridCell.Tab.0.right/0.0.1440.810/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620067287059" />
+    <state x="2542" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1620044410973">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2542" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1440.810/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620044410973" />
+  </component>
+</project>

@@ -1,0 +1,745 @@
+(['D:\\project\\Python\\splitmd\\main.py'],
+ ['D:\\project\\Python\\splitmd', 'D:\\project\\Python\\splitmd'],
+ ['codecs'],
+ ['d:\\program files (x86)\\microsoft visual '
+  'studio\\shared\\python37_64\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'd:\\program files (x86)\\microsoft visual '
+  'studio\\shared\\python37_64\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'd:\\program files (x86)\\microsoft visual '
+  'studio\\shared\\python37_64\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'd:\\program files (x86)\\microsoft visual '
+  'studio\\shared\\python37_64\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'd:\\program files (x86)\\microsoft visual '
+  'studio\\shared\\python37_64\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ [],
+ [],
+ False,
+ False,
+ '3.7.8 (tags/v3.7.8:4b47a5b6ba, Jun 28 2020, 08:53:46) [MSC v.1916 64 bit '
+ '(AMD64)]',
+ [('main', 'D:\\project\\Python\\splitmd\\main.py', 'PYSOURCE')],
+ [('tokenize',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('argparse',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\struct.py',
+   'PYMODULE'),
+  ('token',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\token.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_strptime',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\calendar.py',
+   'PYMODULE'),
+  ('quopri',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\getopt.py',
+   'PYMODULE'),
+  ('stringprep',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('bz2',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_compression',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\_compression.py',
+   'PYMODULE'),
+  ('base64',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\base64.py',
+   'PYMODULE'),
+  ('typing',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\typing.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('logging',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('string',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\string.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\gzip.py',
+   'PYMODULE'),
+  ('lzma',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\lzma.py',
+   'PYMODULE'),
+  ('stat',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\stat.py',
+   'PYMODULE'),
+  ('email.message',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('uu',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('posixpath',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\tty.py',
+   'PYMODULE'),
+  ('subprocess',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tempfile',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('platform',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('ntpath',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('os',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\lib\\os.py',
+   'PYMODULE')],
+ [('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('python37.dll',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\python37.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'C:\\WINDOWS\\system32\\ucrtbase.dll', 'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('unicodedata',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('select',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\WINDOWS\\system32\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'D:\\project\\Python\\splitmd\\build\\main\\base_library.zip',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'd:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python37_64\\Include\\pyconfig.h',
+   'DATA')],
+ [])
